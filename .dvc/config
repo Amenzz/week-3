@@ -1,0 +1,9 @@
+[core]
+    remote = localstorage
+['remote "localstorage"']
+    url = C:\Users\Amenzz\Desktop\dvc
+
+[core]
+    remote = localstorage
+['remote "localstorage"']
+    url = C:/Users/Amenzz/Desktop/dvc_storage
